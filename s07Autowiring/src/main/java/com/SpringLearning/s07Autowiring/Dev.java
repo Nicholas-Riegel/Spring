@@ -19,7 +19,7 @@ public class Dev {
 //      this.lap = lap;
 //    }
 
-    // OF using setter injection
+    // OR using setter injection
     @Autowired
     public void setLap(Laptop lap){
         this.lap = lap;
