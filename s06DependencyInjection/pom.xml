@@ -5,13 +5,13 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.3.4</version>
+		<version>3.3.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.dependencyInjection06</groupId>
-	<artifactId>demoDI06</artifactId>
+	<groupId>com.SpringLearning</groupId>
+	<artifactId>s06DependencyInjection</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demoDI06</name>
+	<name>s06DependencyInjection</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>

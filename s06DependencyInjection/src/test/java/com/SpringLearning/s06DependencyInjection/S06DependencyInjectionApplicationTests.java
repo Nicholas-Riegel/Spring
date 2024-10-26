@@ -1,10 +1,10 @@
-package com.dependencyInjection06.demoDI06;
+package com.SpringLearning.s06DependencyInjection;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoDi06ApplicationTests {
+class S06DependencyInjectionApplicationTests {
 
 	@Test
 	void contextLoads() {
